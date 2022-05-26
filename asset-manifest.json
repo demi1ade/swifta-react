@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/swifta-react/static/css/main.2bc9abff.css",
+    "main.js": "/swifta-react/static/js/main.469d5026.js",
+    "static/media/laptop.jpg": "/swifta-react/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "index.html": "/swifta-react/index.html",
+    "main.2bc9abff.css.map": "/swifta-react/static/css/main.2bc9abff.css.map",
+    "main.469d5026.js.map": "/swifta-react/static/js/main.469d5026.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc9abff.css",
+    "static/js/main.469d5026.js"
+  ]
+}
